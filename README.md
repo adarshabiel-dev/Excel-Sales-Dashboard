@@ -23,7 +23,7 @@ SUMIF()
 
 **Screenshots**
 Dashboard
-<img width="1917" height="1077" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/b7b70687-137a-4280-a7eb-fb8f6cbf153b" />
+<img width="1860" height="812" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/d72576b6-52bf-4266-9321-173682c53028" />
 
 
 Data Cleaning
